@@ -1,6 +1,6 @@
 <html>
 <h1><U>SQL query solver</U></h1>
-<h4><i>Your personal SQL bot</i></h4>
+<h4><i>A <i>helping agent</i> for your <i>SQL queries</i></h4>
 <h3>Intro:</h3>
     <p>
         'SQL query solver' is a fully localized python-backend system which efficiently executes RDB (relational database) queries <br>ie:  What is the maximum salary? 
